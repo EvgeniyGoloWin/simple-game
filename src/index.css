@@ -30,7 +30,7 @@ button {
   border: 0;
   padding: 15px 30px;
   font-size: 20px;
-  color: #fff;
+  color: rgba(252, 1, 1, 0.91);
   margin-top: 20px;
   cursor: pointer;
 }
